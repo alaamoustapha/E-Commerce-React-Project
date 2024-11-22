@@ -2,7 +2,7 @@
   "name": "freshcart",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://alaamoustapha.github.io/E-Commerce-React-Project",
+  "homepage": "https://alaamoustapha.github.io/E-Commerce-React-Project/",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
